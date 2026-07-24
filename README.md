@@ -1,16 +1,87 @@
 ## Hi there 👋
+![Visitor Counter](https://komarev.com/ghpvc/?username=Justadeayo&color=7F52FF&style=flat-square)
 
-<!--
-**Justadeayo/Justadeayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+A passionate developer diving deep into **Android OS development, kernel optimization, and low-level system architecture**. I'm committed to mastering both frontend and backend technologies while building practical solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Currently Working On
+- 📱 **Android Custom ROM & Kernel Building** - Optimizing ROMs for Exynos and Qualcomm chipsets
+- 🎮 **Game Testing & Frontend Web Design** - Creating responsive, engaging user interfaces
+- ⚙️ **Application Software Development** - Building scalable applications across platforms
+- 🤖 **AOSP Projects** - Contributing to open-source Android ecosystem
+
+### 📚 Currently Learning
+- Deep-level Android OS internals and kernel architecture
+- Advanced backend development patterns and systems design
+- Low-level system concepts and performance optimization
+
+### 🤝 Looking for Help With
+- Android OS development best practices
+- Backend development guidance
+- System architecture and design patterns
+- Contributing to open-source projects
+
+### ⚡ Fun Fact
+Software development started as a hobby, and I'm incredibly proud of the progress I'm making! Every line of code is a step toward mastery.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Languages:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+**System, Scripting & Build Tools:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white" alt="Makefile" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+**Data & Markup:**
+<p align="left">
+  <img src="https://img.shields.io/badge/XML-880000?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- **[android_kernel_xiaomi_violet](https://github.com/Justadeayo/android_kernel_xiaomi_violet)** - Kernel optimization for Xiaomi Violet devices (WIP)
+- **[device_xiaomi_violet](https://github.com/Justadeayo/device_xiaomi_violet)** - Device tree for Xiaomi Violet ROM builds
+- **[Premium-shopping-webpage](https://github.com/Justadeayo/Premium-shopping-webpage)** - A Simple Shopping webpage interface 
+- **[coil](https://github.com/Justadeayo/coil)** - Image loading library for Android & Compose Multiplatform
+- **[AnyKernel3](https://github.com/Justadeayo/AnyKernel3)** - Universal kernel flasher toolkit
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justadeayo&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Get in Touch
+- 🐙 Explore my repositories and projects above
+- 💬 Open to collaborations and opportunities
+- 📧 Feel free to reach out for discussions, feedback, or contributions
+
+---
+
+### ⚖️ License
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
