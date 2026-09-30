@@ -7,14 +7,14 @@ A passionate developer diving deep into **Android OS development, kernel optimiz
 ---
 
 ### 🎯 Currently Working On
-- 📱 **Android Custom ROM & Kernel Building** - Optimizing ROMs for Exynos and Qualcomm chipsets
+- 📱 **Android Custom ROM & Kernel Building** - Optimizing ROMs for Qualcomm chipsets
 - 🎮 **Game Testing & Frontend Web Design** - Creating responsive, engaging user interfaces
 - ⚙️ **Application Software Development** - Building scalable applications across platforms
 - 🤖 **AOSP Projects** - Contributing to open-source Android ecosystem
 
 ### 📚 Currently Learning
 - Deep-level Android OS internals and kernel architecture
-- Advanced backend development patterns and systems design
+- Advanced frontend development patterns and systems design
 - Low-level system concepts and performance optimization
 
 ### 🤝 Looking for Help With
@@ -63,16 +63,16 @@ Software development started as a hobby, and I'm incredibly proud of the progres
 - **[android_kernel_xiaomi_violet](https://github.com/Justadeayo/android_kernel_xiaomi_violet)** - Kernel optimization for Xiaomi Violet devices (WIP)
 - **[device_xiaomi_violet](https://github.com/Justadeayo/device_xiaomi_violet)** - Device tree for Xiaomi Violet ROM builds
 - **[Premium-shopping-webpage](https://github.com/Justadeayo/Premium-shopping-webpage)** - A Simple Shopping webpage interface 
-- **[coil](https://github.com/Justadeayo/coil)** - Image loading library for Android & Compose Multiplatform
-- **[AnyKernel3](https://github.com/Justadeayo/AnyKernel3)** - Universal kernel flasher toolkit
+- **[Git-Branch-Importer](https://github.com/Justadeayo/Git-Branch-Importer)** - A lightweight, automated GitHub Actions toolset to import branches and apply individual upstream commits across repositories.
+- **[KSU_Builder](https://github.com/Justadeayo/KSU_Builder)** - Designed to compile legacy kernel ( ≥3.8 ) and support KSU manager.
 
 ---
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justadeayo&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
+<img alt="Justus' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Justadeayo&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+<br />
+<img alt="Justus' Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Justadeayo&theme=dark" />
 
 ---
 
@@ -80,7 +80,7 @@ Software development started as a hobby, and I'm incredibly proud of the progres
 - 🐙 Explore my repositories and projects above
 - 💬 Open to collaborations and opportunities
 - 📧 Feel free to reach out for discussions, feedback, or contributions
-
+- 🌐 My Simple [Portfolio Webpage](https://justus-se.vercel.app)
 ---
 
 ### ⚖️ License
